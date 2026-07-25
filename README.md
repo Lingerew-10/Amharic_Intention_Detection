@@ -1,2 +1,2 @@
-# Dag_Dag
+# Amharic Intention Detection
 Coreference, NLP
