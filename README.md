@@ -31,17 +31,14 @@ The dataset contains nine intention classes:
 ## Repository Structure
 
 ```text
-├── dataset/                 # Amharic intention dataset
-├── notebooks/               # Google Colab/Jupyter notebooks
-├── src/                     # Source code
-│   ├── preprocessing.py
-│   ├── train.py
-│   ├── evaluate.py
-│   └── utils.py
-├── models/                  # Saved model checkpoints
-├── figures/                 # Confusion matrices and performance plots
-├── requirements.txt
-├── LICENSE
+├── notebooks/               # Google Colab/Jupyter notebooks 
+├── dataset/                 # Amharic intention
+         ├── Copy_of_Untitled59.ipynb
+         ├── Copy_of_Untitled59.ipynb
+         ├── Copy_of_Untitled59.ipynb
+├──  # Source code
+│   ├── Copy_of_Untitled59.ipynb
+
 └── README.md
 ```
 
