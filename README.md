@@ -33,9 +33,9 @@ The dataset contains nine intention classes:
 ```text
 ├── notebooks/               # Google Colab/Jupyter notebooks 
 ├── dataset/                 # Amharic intention
-         ├── Copy_of_Untitled59.ipynb
-         ├── Copy_of_Untitled59.ipynb
-         ├── Copy_of_Untitled59.ipynb
+         ├── amharic_speech_acts_train.csv 
+         ├── amharic_speech_acts_test.csv 
+         ├── amharic_speech_acts_val.csv 
 ├──  # Source code
 │   ├── Copy_of_Untitled59.ipynb
 
@@ -53,11 +53,8 @@ The dataset contains nine intention classes:
 * NumPy
 * Matplotlib
 
-Install dependencies using:
 
-```bash
-pip install -r requirements.txt
-```
+
 
 ## Citation
 
