@@ -37,7 +37,7 @@ The dataset contains nine intention classes:
          ├── amharic_speech_acts_test.csv 
          ├── amharic_speech_acts_val.csv 
 ├──  # Source code
-│   ├── Copy_of_Untitled59.ipynb
+│   ├── Untitled59.ipynb
 
 └── README.md
 ```
