@@ -1,4 +1,4 @@
-# Amharic Intention Detection Using AfroXLM-R
+# Pragmatic Intention Detection in Amharic using transformer-based model
 
 This repository contains the source code, dataset, and experimental framework for **Amharic Intention Detection** using transformer-based deep learning models. The project focuses on automatically identifying the communicative intention expressed in Amharic text, enabling machines to understand the speaker's intended meaning beyond the literal content.
 
