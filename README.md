@@ -17,15 +17,15 @@ The repository includes data preprocessing scripts, model training and evaluatio
 ## Intention Categories
 
 The dataset contains nine intention classes:
-* 0.	Assertion
-* 1.	Complaint
-* 2.	Phatic
-* 3.	Promise
-* 4.	Refusal
-* 5.	Request
-* 6.	Sarcasm/Irony
-* 7.	Suggestion
-* 8.	Warning
+* 	Assertion
+* 	Complaint
+* 	Phatic
+* 	Promise
+* 	Refusal
+* 	Request
+* 	Sarcasm/Irony
+* 	Suggestion
+* 	Warning
 
 
 ## Repository Structure
