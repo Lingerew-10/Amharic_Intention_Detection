@@ -42,7 +42,7 @@ The dataset contains nine intention classes:
     ├── Amharic_Intention_Detection.ipynb
     ├── amharic_Intention_Detection.py
 
-├── Annotations/
+├── Annotation/
        ├── annotation1.csv
        ├── annotation2.csv
        ├── annotation3.csv
