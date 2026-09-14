@@ -34,12 +34,18 @@ The dataset contains nine intention classes:
 ├── notebooks/               # Google Colab/Jupyter notebooks 
 ├── dataset/                 # Amharic intention
          ├── amharic_speech_acts_train.csv 
-         ├── amharic_speech_acts_test.csv 
-         ├── amharic_speech_acts_val.csv 
-├──  # Source code
-│   ├── Amharic Intention Detection.ipynb
+         ├── amharic_speech_acts_test.csv
+         ├── amharic_speech_acts_val.csv
+         ├── amharic_Intention_dataset.csv
+├──  Code/
+    ├── Amharic Intention Detection.ipynb
     ├── Amharic Intention Detection.py
-
+├── amharic_speech_acts_val.csv
+├── amharic_speech_acts_val.csv
+├── Annotations/
+       ├── annotation1.csv
+       ├── annotation2.csv
+       ├── annotation3.csv
 └── README.md
 ```
 
